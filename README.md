@@ -213,10 +213,10 @@ Alright, enough talk, let's learn!
 But don't forget to do coding problems from above while you learn!
 
 ## Big O Notation
-- [ ] [Big O Notation](./big-o-notation.md)
+- [x] [Big O Notation](./big-o-notation.md)
 
 ## Data Structures
-- [ ] [Arrays](./arrays.md)
+- [x] [Arrays](./arrays.md) (Won't implement it, because js has built-in Array structure)
 - [ ] [Linked Lists](./linked-lists.md)
 - [ ] [Stack](./stack.md)
 - [ ] [Queue](./queue.md)
