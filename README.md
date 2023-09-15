@@ -102,7 +102,7 @@ For a complete CS self-taught program, the resources for my study plan have been
 ### Topics of Study
 
 - [Algorithmic complexity / Big-O / Asymptotic analysis](./big-o-notation.md)
-- Data Structures
+- [Data Structures](#data-structures)
     - [Arrays](./arrays.md)
     - [Linked Lists](./linked-lists.md)
     - [Stack](./stack.md)
@@ -553,6 +553,16 @@ Challenge/Practice sites:
 Alright, enough talk, let's learn!
 
 But don't forget to do coding problems from above while you learn!
+
+## Big O Notation
+- [ ] [Big O Notation](./big-o-notation.md)
+
+## Data Structures
+- [ ] [Arrays](./arrays.md)
+- [ ] [Linked Lists](./linked-lists.md)
+- [ ] [Stack](./stack.md)
+- [ ] [Queue](./queue.md)
+- [ ] [Hash table](./hash-table.md)
 
 ## More Knowledge
 
